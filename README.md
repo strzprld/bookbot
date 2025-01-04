@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot is my first project made in Python with a help of Boot.dev back-end course.
